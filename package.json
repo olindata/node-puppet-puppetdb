@@ -1,6 +1,6 @@
 {
   "name": "puppet-puppetdb",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Module for talking to puppet's PuppetDB ",
   "repository": "https://github.com/olindata/node-puppet-puppetdb.git",
   "main": "index.js",
@@ -10,7 +10,14 @@
   "keywords": [
     "puppet"
   ],
-  "author": "Walter Heck",
+  "author": {
+    "name" : "Walter Heck",
+    "email": "walterheck@olindata.com"
+  },
+  "contributors": [ {
+    "name": "Raj Kissu Rajandran",
+    "email": "raj@olindata.com"
+  } ],
   "license": "ISC",
   "dependencies": {
     "request": "^2.34.0"
