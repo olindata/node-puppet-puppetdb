@@ -2,6 +2,7 @@
   "name": "puppet-puppetdb",
   "version": "0.0.1",
   "description": "Module for talking to puppet's PuppetDB ",
+  "repository": "https://github.com/olindata/node-puppet-puppetdb.git",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
